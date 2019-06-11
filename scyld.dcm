@@ -1,0 +1,87 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP C
+D Unpolarized capacitor
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP CP
+D Polarized capacitor
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP CP1
+D Polarized capacitor, US symbol
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP D
+D Diode
+K diode
+F ~
+$ENDCMP
+#
+$CMP IR2110
+D High and Low Side Gate Driver, 500V operation, Output Current 2.0/2.0A, PDIP-14/SOIC-14
+K Gate Driver
+F https://www.infineon.com/dgdl/ir2110.pdf?fileId=5546d462533600a4015355c80333167e
+$ENDCMP
+#
+$CMP Q_NMOS_GDS
+D N-MOSFET transistor, gate/drain/source
+K transistor NMOS N-MOS N-MOSFET
+F ~
+$ENDCMP
+#
+$CMP R
+D Resistor
+K R res resistor
+F ~
+$ENDCMP
+#
+$CMP Si8410
+D Low Power Dual-Channel 2/0 Digital Isolator, 25Mbps 33ns, Fail-Safe High, SO8
+K 2Ch Dual Digital Isolator 25Mbps
+F http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=iso7320c&fileType=pdf
+$ENDCMP
+#
+$CMP TC4420
+D Low-Voltage 18V PMOS-NMOS Bridge Driver, SOIC-8
+K Driver MOSFET
+F http://www.onsemi.com/pub/Collateral/FAN3268T_F085-D.PDF
+$ENDCMP
+#
+$CMP dcdcDual
+D +/-42mA Isolated 1W Dual output DC/DC Converter Module, 5V Input Voltage, +/-12V Output Voltage, DIP Package
+K Murata isolated isolation dc-dc converter
+F http://power.murata.com/data/power/ncl/kdc_nma.pdf
+$ENDCMP
+#
+$CMP dcdcDualHV
+D +/-42mA Isolated 1W Dual output DC/DC Converter Module, 5V Input Voltage, +/-12V Output Voltage, DIP Package
+K Murata isolated isolation dc-dc converter
+F http://power.murata.com/data/power/ncl/kdc_nma.pdf
+$ENDCMP
+#
+$CMP dcdcDualSep
+D +/-42mA Isolated 1W Dual output DC/DC Converter Module, 5V Input Voltage, +/-12V Output Voltage, DIP Package
+K Murata isolated isolation dc-dc converter
+F http://power.murata.com/data/power/ncl/kdc_nma.pdf
+$ENDCMP
+#
+$CMP dcdcSingle
+D +/-42mA Isolated 1W Dual output DC/DC Converter Module, 5V Input Voltage, +/-12V Output Voltage, DIP Package
+K Murata isolated isolation dc-dc converter
+F http://power.murata.com/data/power/ncl/kdc_nma.pdf
+$ENDCMP
+#
+$CMP dcdcSingleHV
+D +/-42mA Isolated 1W Dual output DC/DC Converter Module, 5V Input Voltage, +/-12V Output Voltage, DIP Package
+K Murata isolated isolation dc-dc converter
+F http://power.murata.com/data/power/ncl/kdc_nma.pdf
+$ENDCMP
+#
+#End Doc Library
